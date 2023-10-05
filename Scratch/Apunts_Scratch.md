@@ -18,7 +18,7 @@ Al entrar por primera vez en la web de Scratch tenemos dos opciones: Empezar a c
 
 Nosotros vamos a elegir la opción Únete, para poder guardar nuestros trabajos.
 
-![](https://lh4.googleusercontent.com/Yku3k_oQUfpiXAtVfw5B7Wns4MmYGL5-oVSU92AR3IFpKCOSssA9d5PKI4gVaaAUJJ0xJ2svele2gV5fQYMCb-cuxUSrdiaAFO3LgGnSe45UTIbTC0j3W6F3msh9xYOTzw=w1280)
+![](https://lh3.googleusercontent.com/Yku3k_oQUfpiXAtVfw5B7Wns4MmYGL5-oVSU92AR3IFpKCOSssA9d5PKI4gVaaAUJJ0xJ2svele2gV5fQYMCb-cuxUSrdiaAFO3LgGnSe45UTIbTC0j3W6F3msh9xYOTzw=w1280)
 
 Después, nos pedirá nuestro nombre de usuario y una contraseña y pulsamos Siguiente.
 
