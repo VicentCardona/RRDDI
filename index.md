@@ -1,6 +1,7 @@
 # RRDDI
 Web de contingut de Recursos Digitals
-## [Scratch]()
+## Sratch:
+- [Apunts Scratch](https://vicentcardona.github.io/ProgitractII/RRDDI/Sratch/Apunts%20Scratch.html)
 ## Referències:
   [Miguel Tecnologia](https://sites.google.com/site/migueltecnologia)  
 
